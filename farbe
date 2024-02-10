@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Empresa Farbe</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+        header {
+            background-color: #ffffff;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        header img {
+            max-width: 200px;
+        }
+
+        main {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #333333;
+        }
+
+        p {
+            color: #666666;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #ffffff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        a:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://caminho/para/sua/logo/farbe.png" alt="Logo da Farbe">
+    </header>
+
+    <main>
+        <h1>Bem-vindo à Farbe</h1>
+        <p>Escolha uma das opções abaixo:</p>
+        <ul>
+            <li><a href="https://wa.me/5562985736618?text=Ol%C3%A1+Farbe%21" target="_blank">Atendimento WhatsApp</a></li>
+            <li><a href="https://www.instagram.com/farbeimpressaodigital?igsh=MTZ6ZWlveDBraWll&utm_source=qr" target="_blank">Instagram</a></li>
+        </ul>
+    </main>
+</body>
+</html>
